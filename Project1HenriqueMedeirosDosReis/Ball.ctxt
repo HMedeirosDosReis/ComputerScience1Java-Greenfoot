@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ball
+comment0.text=\r\n\ The\ ball\ in\ the\ soccer\ game\r\n\ \r\n\ @author\ Henrique\ Medeiros\ Dos\ Reis\ \r\n\ @version\ 10/25/2019\r\n
+comment1.params=
+comment1.target=int\ getKicked()
+comment1.text=\r\n\ sets\ the\ value\ of\ kicked\ to\ 1\ in\ order\ to\ show\ that\ the\ ball\ was\ kicked\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ \ 1-Keeps\ the\ Ball\ moving,\ if\ it\ was\ kicked\ \r\n\ \ 2-Verify\ if\ it\ is\ touching\ anything\ \r\n\ \ \ \ \ \ I-\ If\ the\ ball\ is\ thouching\ the\ scoreboard\ between\ the\ goalposts,\ it\ adds\ a\ goal\ to\ the\ scoreboard\r\n\ \ \ \ \ \ II-\ If\ touching\ the\ goalie,\ it\ adds\ a\ miss\ to\ the\ scoreboard\r\n\ \ \ \ \ \ III-\ If\ touching\ the\ goalpost,\ it\ adds\ a\ miss\ to\ the\ scoreboard\r\n\ \ \ \ \ \ IV-\ If\ it\ touches\ any\ side\ besides\ the\ top,\ it\ adds\ a\ miss\ to\ the\ scoreboard\r\n
+numComments=3

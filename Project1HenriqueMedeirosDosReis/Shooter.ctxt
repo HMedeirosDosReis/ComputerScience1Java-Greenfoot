@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Shooter
+comment0.text=\r\n\ The\ "player"\ which\ will\ be\ controlled\ by\ the\ person\ who\ is\ play\ and\ is\ trying\ to\ score\ goals\r\n\ \r\n\ @author\ Henrique\ Medeiros\ Dos\ Reis\r\n\ @version\ 10/25/2019\r\n
+comment1.params=
+comment1.target=void\ addBomb()
+comment1.text=\r\n\ Act\ -\ allows\ the\ player\ to\ move\ and\ kicks\ the\ ball\ whenever\ he\ touches\ it\r\n\ \ \ \r\n
+comment2.params=
+comment2.target=void\ removeBomb()
+comment3.params=
+comment3.target=int\ bombState()
+comment4.params=
+comment4.target=void\ act()
+numComments=5

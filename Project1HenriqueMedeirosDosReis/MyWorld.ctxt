@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ The\ "Soccer\ Field"\ itself,\ where\ the\ game\ is\ played\r\n\ \r\n\ @author\ Henrique\ Medeiros\ Dos\ Reis\r\n\ @version\ 10/25/2019\r\n
+comment1.params=
+comment1.target=ScoreBoard\ getScoreBoard()
+comment1.text=\r\n\ Construct\ a\ new\ Score\ board\ with\ zero\ goals\ and\ misses\r\n
+comment2.params=
+comment2.target=Shooter\ getShooter()
+comment2.text=\r\n\ Contruct\ a\ new\ Shooter\ object\ that\ will\ play\ the\ game\ \r\n
+comment3.params=
+comment3.target=Goalie\ getGoalie()
+comment3.text=\r\n\ Create\ a\ new\ Goallie\ that\ will\ try\ to\ protect\ the\ Goal\r\n
+comment4.params=
+comment4.target=MyWorld()
+comment5.params=
+comment5.target=void\ createWorld()
+comment5.text=\r\n\ Contruct\ a\ world\ with\ two\ Goal\ posts,\ one\ goalie,\ one\ shooter\ and\ one\ ball\r\n
+numComments=6

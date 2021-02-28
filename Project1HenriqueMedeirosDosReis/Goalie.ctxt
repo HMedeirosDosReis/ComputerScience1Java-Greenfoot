@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Goalie
+comment0.text=\r\n\ A\ goalie\ that\ just\ move\ back\ and\ forth\ between\ two\ goal\ posts\ all\ the\ time\r\n\ \r\n\ @author\ Henrique\ Medeiros\ Dos\ Reis\ \r\n\ @version\ 10/25/2019\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ have\ the\ goalie\ just\ move\ back\ and\ forth\ between\ the\ goalposts\r\n
+numComments=2

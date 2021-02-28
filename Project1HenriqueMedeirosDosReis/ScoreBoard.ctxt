@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ScoreBoard
+comment0.text=\n\ Keeps\ track\ of\ goals,\ misses,\ and\ percentage\ for\ CSC14400\n\ \ \ \ project\ \#1.\ \n\ \n\ Although\ you\ are\ welcome\ to\ modify\ this\ class,\ it\ is\ highly\n\ \ \ \ inadvisable\ to\ do\ so.\ \n\ \n\ @author\ Stephen\ Blythe\n\ @version\ 7/2019\n
+comment1.params=
+comment1.target=ScoreBoard()
+comment1.text=\ \n\ Initializes\ ScoreBoard\ to\ have\ zero\ shots\ and\ misses.\n
+comment2.params=inWorld
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ redraw()
+comment4.params=
+comment4.target=void\ addMiss()
+comment4.text=\ \n\ Adds\ a\ single\ missed\ goal\ to\ the\ stats\n
+comment5.params=
+comment5.target=void\ addGoal()
+comment5.text=\n\ Adds\ a\ made\ goal\ to\ the\ stats\n
+numComments=6
