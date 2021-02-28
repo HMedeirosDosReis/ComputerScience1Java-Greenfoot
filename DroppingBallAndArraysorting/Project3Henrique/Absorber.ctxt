@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Absorber
+comment0.text=\r\n\ The\ "scoring"\ absorber\ for\ project\ 3.\ This\ class\ just\ provides\r\n\ the\ abiity\ to\ construct\ and\ utilize\ an\ Absorber.\ \r\n\ \r\n\ You\ probably\ do\ not\ want\ to\ modify\ this\ class,\ although\ you\r\n\ are\ welcome\ to\ do\ so.\ \r\n\ \r\n\ @author\ Stephen\ Blythe\r\n\ @version\ 11/2019\r\n
+comment1.params=value
+comment1.target=Absorber(int)
+comment1.text=\r\n\ Constructor\ for\ an\ Absorber.\ \r\n\ @param\ value\ -\ the\ score\ value\ for\ this\ Absorber\r\n
+comment2.params=
+comment2.target=void\ redraw()
+comment3.params=
+comment3.target=int\ getScoreValue()
+comment3.text=\r\n\ get\ the\ value\ of\ this\ absorber\ object\r\n\ @return\ the\ value\ of\ this\ Absorber\r\n
+numComments=4

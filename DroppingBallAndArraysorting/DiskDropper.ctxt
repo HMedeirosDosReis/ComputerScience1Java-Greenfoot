@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=DiskDropper
+comment0.text=\r\n\ Rectangle\ that\ can\ move\ left\ (left\ arrow),\ right\ (right\ arrow),\r\n\ \ \ and/or\ drop\ disks\ (space\ bar).\ \r\n\ \r\n\ @author\ Stephen\ Blythe\r\n\ @version\ 11/2019\r\n
+comment1.params=
+comment1.target=DiskDropper()
+comment1.text=\r\n\ COnstructor\ that\ simply\ draws\ the\ image\ for\ a\ disk\ dropper\r\n
+comment2.params=
+comment2.target=void\ redraw()
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Allows\ us\ to\ move\ left\ or\ right\ one\ pixel\ at\ a\ time,\ stopping\r\n\ \ \ at\ edges\ of\ playing\ area.\ Also\ allows\ a\ new\ disk\ to\ be\ added.\r\n
+numComments=4

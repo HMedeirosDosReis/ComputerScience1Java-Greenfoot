@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Load
+comment0.text=\r\n\ A\ clickable\ button\ that\ will\ read\ a\ file\ that\ the\ user\ will\ choose\ and\ \r\n\ add\ the\ correct\ objects\ read\ from\ the\ file\ to\ the\ world.\r\n\ \r\n\ @author\ Henrique\ Medeiros\ Dos\ Reis\r\n\ @version\ 12/04/2019\r\n
+comment1.params=
+comment1.target=Load()
+comment1.text=\r\n\ Contructor\ for\ the\ Load.\ Simply\ calls\ the\ super\ class\ and\ write\ "Load"\ \r\n\ in\ the\ button.\r\n
+comment2.params=
+comment2.target=void\ performAction()
+comment2.text=\r\n\ Once\ the\ user\ presses\ the\ buton\ load\ this\ method\ will\ read\ the\ file,\r\n\ and\ add\ the\ objects\ in\ the\ world.\r\n
+numComments=3

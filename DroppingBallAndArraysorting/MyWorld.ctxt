@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ World\ for\ the\ "plinko\ like"\ game\ where\ disks\ are\ dropped\ from\r\n\ the\ top\ of\ the\ world\ ,\ hit\ pins\ and\ bounce\ off\ of\ them,\ and\r\n\ are\ "absorbed"\ by\ scoring\ units.\ \r\n\ \r\n\ @author\ Henrique\ Medeiros\ Dos\ Reis\r\n\ @version\ 12/04/2019\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ -Initiates\ the\ variable\ myScore\ at\ 0;\r\n\ -Creates\ cliclable\ objects\ that\ will\ allow\ the\ user\ to\ make\ actions\r\n\ -Creates\ a\ moveble\ object\ of\ type\ DiskDropper\ in\ the\ world\r\n\ \r\n
+comment2.params=
+comment2.target=Score\ getScore()
+comment2.text=\r\n\ Get\ the\ current\ value\ of\ the\ player\ Score\r\n\ \r\n\ @return\ the\ score\ value\ \r\n
+numComments=3

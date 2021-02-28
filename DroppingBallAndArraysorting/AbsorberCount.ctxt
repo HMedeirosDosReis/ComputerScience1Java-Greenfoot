@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=AbsorberCount
+comment0.text=\r\n\ The\ statistics\ holder\ for\ both\ value\ and\ number\ of\ hits.\ Note\r\n\ that\ each\ absorber\ with\ the\ same\ value\ should\ utilize\ the\ same\r\n\ AbsorberCount\ object,\ so\ there\ can\ be\ more\ Absorbers\ than\ there\r\n\ are\ AbsorberCount\ objects.\ \r\n\ \r\n\ You\ probably\ do\ not\ want\ to\ modify\ this\ class,\ although\ you\r\n\ are\ welcome\ to\ do\ so.\ \r\n\ \r\n\ @author\ Stephen\ Blythe\r\n\ @version\ 11/2019\r\n
+comment1.params=scoreValue
+comment1.target=AbsorberCount(int)
+comment1.text=\r\n\ Constructor\ that\ builds\ a\ stats\ holder\ for\ a\ given\ point\r\n\ value.\ By\ default,\ the\ hit\ count\ is\ 0.\r\n\ @param\ the\ score\ value\ for\ this\ AbsorberCount\r\n
+comment2.params=
+comment2.target=void\ redraw()
+comment3.params=
+comment3.target=int\ getScoreValue()
+comment3.text=\r\n\ gives\ the\ current\ score\ value\ \r\n\ @return\ the\ score\ value\r\n
+comment4.params=
+comment4.target=int\ getHitCount()
+comment4.text=\r\n\ gives\ the\ current\ hit\ count.\ Remember,\ this\ is\ the\ number\r\n\ \ \ of\ hits\ accross\ all\ Absorbers\ of\ the\ same\ point\ value\r\n\ @return\ the\ hit\ count\r\n
+comment5.params=
+comment5.target=void\ incHits()
+comment5.text=\r\n\ increments\ the\ number\ of\ hits\ by\ one\r\n
+comment6.params=
+comment6.target=void\ resetHits()
+comment6.text=\r\n\ resets\ the\ number\ of\ hits\ to\ be\ zero.\ \r\n\ \ \ NOTE\:\ This\ probably\ isn't\ needed\ for\ the\ project,\ but\ is\r\n\ \ \ included\ for\ completeness'\ sake\ here.\ \r\n
+comment7.params=newHitCount
+comment7.target=void\ setHits(int)
+comment7.text=\r\n\ sets\ the\ number\ of\ hits\ to\ a\ new\ value.\r\n\ \ \ NOTE\:\ This\ probably\ isn't\ needed\ for\ the\ project,\ but\ is\r\n\ \ \ included\ for\ completeness'\ sake\ here.\ \r\n\ @param\ newHitCount\ the\ number\ of\ hits\ to\ set\ this\ stat\ keeper\ \r\n
+numComments=8

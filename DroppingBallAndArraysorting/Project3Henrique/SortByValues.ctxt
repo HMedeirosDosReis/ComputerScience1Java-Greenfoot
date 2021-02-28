@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SortByValues
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SortByValues\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=SortByValues()
+comment1.text=\r\n\ Constructor\ for\ the\ SortByCount\ Object.\r\n\ It\ initializes\ the\ array\ counters\ to\ a\ value\ of\ 500\ objects\ and\ the\ current\ \r\n\ size\ at\ 0;\r\n\ Calls\ the\ super\ with\ the\ name\ "Sort\ by\ Values"\ \r\n
+comment2.params=
+comment2.target=void\ performAction()
+comment2.text=\r\n\ Perform\ the\ action\ whenever\ the\ user\ clicks\ in\ the\ button.\r\n
+comment3.params=index1\ index2
+comment3.target=void\ swap(int,\ int)
+comment3.text=\r\n\ Swap\ -\ it\ will\ switch\ the\ objec\ in\ index1\ to\ the\ object\ in\ index2\r\n\ \r\n\ @param\ index1\ the\ index\ of\ the\ first\ object\r\n\ @param\ index2\ the\ index\ of\ the\ seccond\ object\r\n
+comment4.params=
+comment4.target=void\ fillArray()
+comment4.text=\r\n\ Fills\ the\ array\ counters\ with\ the\ objects\ that\ are\ already\ in\ the\ world.\r\n
+comment5.params=
+comment5.target=void\ sortV()
+comment5.text=\r\n\ Sorts\ the\ array\ based\ on\ the\ value\ point\ of\ the\ Absorber.\ \r\n\ From\ the\ lowest\ to\ highest\ value.\r\n
+numComments=6
